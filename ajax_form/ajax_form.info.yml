@@ -1,0 +1,5 @@
+name: AjaxForm
+description: My first form with ajax
+core: 8.x
+type: module
+package: AjaxForm
